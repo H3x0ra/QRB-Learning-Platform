@@ -109,7 +109,6 @@ testuser / test123
 
 ### SQL Injection – `/Sql01/`
 - Boolean-based  
-- Error-based  
 - UNION-based  
 - Authentication bypass  
 
@@ -127,10 +126,7 @@ testuser / test123
 - Reading system files  
 - LFI to code execution  
 
-### Broken Access Control
-- Privilege escalation  
-- IDOR  
-- Missing access checks  
+
 
 # 📚 Purpose
 
