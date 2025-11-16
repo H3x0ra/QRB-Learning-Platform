@@ -134,4 +134,4 @@ http://localhost/QRB/
 
 **Qasim Tawalbeh — (H3x0ra)**  
 GitHub: https://github.com/H3x0ra
-https://www.linkedin.com/in/qasim-tawalbeh-a3b75522b/
+LinkedIn: https://www.linkedin.com/in/qasim-tawalbeh-a3b75522b/
