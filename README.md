@@ -93,17 +93,11 @@ sudo systemctl restart apache2
 http://localhost/QRB/
 ```
 
-# 🔐 Default Credentials
+# 🔐Create Account
 
 ### Admin
-```
-admin / admin123
-```
+ Singup and then login
 
-### Test User
-```
-testuser / test123
-```
 
 # 🧪 Lab Modules Included
 
@@ -139,5 +133,5 @@ testuser / test123
 # 👨‍💻 Author
 
 **Qasim Tawalbeh — (H3x0ra)**  
-Cybersecurity Researcher & Offensive Security Enthusiast  
 GitHub: https://github.com/H3x0ra
+https://www.linkedin.com/in/qasim-tawalbeh-a3b75522b/
