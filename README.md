@@ -11,7 +11,6 @@ This project includes multiple vulnerable modules aligned with **OWASP Top 10**,
 - File Upload Abuse
 - Broken Access Control
 - Authentication/Session Weaknesses
-- Web exploitation fundamentals
 
 ## ⭐ Features
 
@@ -21,7 +20,6 @@ This project includes multiple vulnerable modules aligned with **OWASP Top 10**,
 - Simple installation process
 - Ideal for:
   - Cybersecurity students
-  - SOC Analysts
   - CTF players
   - Ethical hacking learners
   - Web security training sessions
