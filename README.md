@@ -9,8 +9,6 @@ This project includes multiple vulnerable modules aligned with **OWASP Top 10**,
 - Cross-Site Scripting (XSS)
 - Local File Inclusion (LFI)
 - File Upload Abuse
-- Broken Access Control
-- Authentication/Session Weaknesses
 
 ## ⭐ Features
 
@@ -77,7 +75,6 @@ sudo chmod -R 755 /var/www/html/QRB
 mysql -uroot < Database.sql
 ```
 
-(Use `-p` if prompted for password.)
 
 ## 7️⃣ Restart Apache
 
